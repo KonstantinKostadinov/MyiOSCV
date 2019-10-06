@@ -3,5 +3,5 @@
 
 ## What I used
  * Programmatic UI
- * Design UI using UICollectionView, custom cells and UIStackView
+ * Design UI using UICollectionView, CollectionViewHeaders and custom cells 
  * Used protocols/delegates 
