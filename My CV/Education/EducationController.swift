@@ -74,7 +74,6 @@ class EducationController: UICollectionViewController, UICollectionViewDelegateF
     override func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         if isInUniversity{
             let cell  = collectionView.dequeueReusableCell(withReuseIdentifier:cellId, for: indexPath) as! HeaderCell
-    
             // Configure the cell
             let data = self.university[indexPath.row]
             cell.title.text = data["title"]

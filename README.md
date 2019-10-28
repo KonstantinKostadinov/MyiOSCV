@@ -5,3 +5,6 @@
  * Programmatic UI
  * Design UI using UICollectionView, CollectionViewHeaders and custom cells 
  * Used protocols/delegates 
+ 
+ ![](My_CV.gif)
+
